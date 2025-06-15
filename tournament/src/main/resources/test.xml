@@ -1,0 +1,18 @@
+<families>
+    <family>
+        <mother>mother1</mother>
+        <father>father1</father>
+        <children>
+            <child>child1</child>
+            <child>child2</child>
+        </children>
+    </family>
+    <family>
+        <mother>mother2</mother>
+        <father>father2</father>
+        <children>
+            <child>child1</child>
+            <child>child2</child>
+        </children>
+    </family>
+</families>

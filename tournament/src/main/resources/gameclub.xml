@@ -1,0 +1,16 @@
+<gameclub>
+    <tables>
+        <table id ="1" name ="name1" landscape_id = "1"/>
+        <table id ="2" name ="name2" landscape_id = "1"/>
+    </tables>
+    <landscapes>
+        <landscape id ="1">
+            <name>
+                tundra
+            </name>
+            <description>
+                sample text
+            </description>
+        </landscape>
+    </landscapes>
+</gameclub>
