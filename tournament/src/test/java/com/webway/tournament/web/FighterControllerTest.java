@@ -5,12 +5,12 @@ import com.webway.tournament.dao.FighterDao;
 import com.webway.tournament.dao.impl.FighterJdbcDao;
 import com.webway.tournament.dto.FighterDto;
 import com.webway.tournament.mapper.TournamentMapper;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
 
 class FighterControllerTest {
 
-    @org.junit.jupiter.api.Test
+    @Test
     public void createFighter() {
         FighterController contr = new FighterController();
         FighterManager man = new FighterManager();
