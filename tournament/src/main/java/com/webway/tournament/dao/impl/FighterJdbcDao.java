@@ -8,6 +8,7 @@ public class FighterJdbcDao implements FighterDao {
 
     @Override
     public Long createFighter(Fighter fighter) {
+        System.out.println("New Fighter is saved!");
         return 0L;
     }
 }
